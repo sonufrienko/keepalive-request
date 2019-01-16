@@ -1,0 +1,19 @@
+{
+  "name": "keepalive-communication",
+  "version": "1.0.0",
+  "description": "Test communication between services with keep-alive and without",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonufrienko/keepalive-communication.git"
+  },
+  "author": "Sergey Onufrienko",
+  "license": "MIT",
+  "dependencies": {
+    "agentkeepalive": "^4.0.0",
+    "express": "^4.16.4"
+  }
+}
