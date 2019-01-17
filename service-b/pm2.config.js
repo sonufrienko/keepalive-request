@@ -5,7 +5,8 @@ module.exports = {
       script: "./server.js",
       instances: "max",
       env: {
-        NODE_ENV: "production"
+        NODE_ENV: "production",
+        PORT: 3001
       }
     }
   ]
