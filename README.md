@@ -6,4 +6,4 @@ I've compare requests with:
 - keep-alive connection
 - [agentkeepalive](https://www.npmjs.com/package/agentkeepalive) agent
 
-[Research results]()
+[Research results](https://medium.com/@onufrienkos/keep-alive-connection-on-inter-service-http-requests-3f2de73ffa1)
